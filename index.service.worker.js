@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1783070404|1780194273';
+const CACHE_VERSION = '1783076533|7908817217';
 /** @type {string} */
 const CACHE_PREFIX = 'Knowledge Snake-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
